@@ -55,7 +55,7 @@
     "codelyzer": "4.0.1",
     "cssom": "0.3.0",
     "jasmine-core": "2.8.0",
-    "jasmine-spec-reporter": "4.2.1",
+    "jasmine-spec-reporter": "6.0.0",
     "jasmine2-custom-message": "0.8.2",
     "karma": "2.0.0",
     "karma-chrome-launcher": "2.2.0",
