@@ -47,7 +47,7 @@
     "@angular/language-service": "11.2.0",
     "@phenomnomnominal/tsquery": "2.1.1",
     "@types/jasmine": "3.6.3",
-    "@types/jasminewd2": "2.0.2",
+    "@types/jasminewd2": "2.0.8",
     "@types/node": "6.0.60",
     "bootstrap": "3.3.7",
     "chai": "4.0.1",
